@@ -9,6 +9,7 @@ python:
 - "3.2"
 - "3.3"
 - "3.4"
+- "3.6"
 script:
 - cd xmla
 - python setup.py test
