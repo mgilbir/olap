@@ -1,9 +1,9 @@
 language: python
-# whitelist
-# branches:
-#   only:
-#     - master
-#     - py3
+# safelist
+branches:
+  only:
+    - master
+    - py3
 python:
 - "2.7"
 - "3.6"
